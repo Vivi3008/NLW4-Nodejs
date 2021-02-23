@@ -1,8 +1,8 @@
 # 🇧🇷 API de Envio de Emails
 
-    Construído durante a 4º edição do NLW feito pela Rocketseat (Trilha NodeJs).
+Construído durante a 4º edição do NLW feito pela Rocketseat (Trilha NodeJs).
 
-    Api de cadastro de usuarios, cadastro de pesquisa de satisfação e envio de email.
+Api de cadastro de usuarios, cadastro de pesquisa de satisfação e envio de email.
 
 ## Status
 
@@ -10,9 +10,9 @@
 
 ## Teconologias
 
-- Typescript
-- TypeORM
-- Sqlite
+- [Typescript](https://www.typescriptlang.org/)
+- [TypeORM](https://typeorm.io/#/)
+- [Sqlite](https://www.sqlite.org/index.html)
 
 # 🇺🇸 Email sending API
 
