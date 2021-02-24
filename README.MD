@@ -21,6 +21,10 @@ Net Promoter Score é um tipo de métrica criada para medir a satisfação dos c
 - [Sqlite](https://www.sqlite.org/index.html)
 - [Jest](https://jestjs.io/)
 
+### Autora
+
+Desenvolvido por [ViviRamos](https://www.linkedin.com/in/viviane-ramos-luz/) 💜
+
 # 🇺🇸 API REST for Net Promoter Score
 
 Built during the 4th edition of NLW made by Rocketseat (NodeJs Trail).
@@ -42,3 +46,7 @@ Net Promoter Score is a type of metric created to assess customer satisfaction, 
 - [Typescript](https://www.typescriptlang.org/)
 - [TypeORM](https://typeorm.io/#/)
 - [Sqlite](https://www.sqlite.org/index.html)
+
+### Author
+
+Made by [ViviRamos](https://www.linkedin.com/in/viviane-ramos-luz/) 💜
