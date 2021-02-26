@@ -22,6 +22,7 @@ Net Promoter Score é um tipo de métrica criada para medir a satisfação dos c
 - [Jest](https://jestjs.io/)
 - [Nodemailer](https://nodemailer.com/about/)
 - [Ethereal] (https://ethereal.email/)
+- [Handlebars] (https://handlebarsjs.com/)
 
 ### Autora
 
@@ -50,6 +51,7 @@ Net Promoter Score is a type of metric created to assess customer satisfaction, 
 - [Sqlite](https://www.sqlite.org/index.html)
 - [Nodemailer](https://nodemailer.com/about/)
 - [Ethereal] (https://ethereal.email/)
+- [Handlebars] (https://handlebarsjs.com/)
 
 ### Author
 
