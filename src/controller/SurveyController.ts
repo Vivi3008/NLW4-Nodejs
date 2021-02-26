@@ -1,6 +1,7 @@
 import { Request, Response } from "express";
 import { getCustomRepository } from "typeorm";
 import { SurveysRepository } from "../repositories/SurveysRepository";
+import AppError from "../errors/AppError";
 
 export default {
   async create(req: Request, res: Response) {
@@ -17,8 +18,7 @@ export default {
       await surveyRepository.save(surveyData);
       return res.status(201).send(surveyData);
     } catch (error) {
-      console.log("Error at insert!", error);
-      res.status(500).send("Error at insert!");
+      throw new AppError("Survey user does not exists!");
     }
   },
 
